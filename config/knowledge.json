@@ -1,0 +1,230 @@
+{
+  "entries": [
+    {
+      "questions": [
+        "who are you",
+        "what are you",
+        "tell me about yourself"
+      ],
+      "answer": "I am your Python voice assistant. I can tell the time, search the web, set reminders and send emails."
+    },
+    {
+      "questions": [
+        "what is your name",
+        "your name"
+      ],
+      "answer": "My name is Nova, your personal voice assistant."
+    },
+    {
+      "questions": [
+        "how are you",
+        "how are you doing"
+      ],
+      "answer": "I am doing great, thank you for asking. How can I help you?"
+    },
+    {
+      "questions": [
+        "who made you",
+        "who created you",
+        "who built you"
+      ],
+      "answer": "I was built in Python as an internship project, using speech recognition and text to speech libraries."
+    },
+    {
+      "questions": [
+        "what is python",
+        "python programming language",
+        "explain python"
+      ],
+      "answer": "Python is a popular, easy to read programming language used for web development, data science, automation and artificial intelligence."
+    },
+    {
+      "questions": [
+        "who created python",
+        "who invented python",
+        "who made python"
+      ],
+      "answer": "Python was created by Guido van Rossum and first released in 1991."
+    },
+    {
+      "questions": [
+        "what is artificial intelligence",
+        "what is ai",
+        "explain ai"
+      ],
+      "answer": "Artificial intelligence is the ability of computer systems to perform tasks that normally need human intelligence, such as understanding speech, recognising images and making decisions."
+    },
+    {
+      "questions": [
+        "what is machine learning",
+        "explain machine learning"
+      ],
+      "answer": "Machine learning is a part of AI where computers learn patterns from data instead of being programmed with fixed rules."
+    },
+    {
+      "questions": [
+        "what is a voice assistant",
+        "explain voice assistant"
+      ],
+      "answer": "A voice assistant is a program that listens to spoken commands, understands them and replies or performs tasks, like Siri, Alexa or Google Assistant."
+    },
+    {
+      "questions": [
+        "what is oasis infobyte",
+        "oasis infobyte internship"
+      ],
+      "answer": "Oasis Infobyte is an organisation that offers online internship programs in areas such as Python programming. This project is built for that internship."
+    },
+    {
+      "questions": [
+        "what is json",
+        "explain json"
+      ],
+      "answer": "JSON is a simple text format for storing and exchanging data using keys and values. This project uses it for commands and knowledge."
+    },
+    {
+      "questions": [
+        "what is github",
+        "explain github"
+      ],
+      "answer": "GitHub is a website where developers store code using Git, share projects and collaborate."
+    },
+    {
+      "questions": [
+        "what is pip",
+        "explain pip"
+      ],
+      "answer": "Pip is the package installer for Python. It downloads and installs libraries for your projects."
+    },
+    {
+      "questions": [
+        "what is tkinter",
+        "explain tkinter"
+      ],
+      "answer": "Tkinter is the standard Python library for building desktop windows with buttons, text boxes and other widgets."
+    },
+    {
+      "questions": [
+        "what is the internet",
+        "explain internet"
+      ],
+      "answer": "The internet is a global network of connected computers that share information using common protocols."
+    },
+    {
+      "questions": [
+        "how many days in a year",
+        "days in a year"
+      ],
+      "answer": "A year has 365 days, and 366 days in a leap year."
+    },
+    {
+      "questions": [
+        "how many days in a week",
+        "days in a week"
+      ],
+      "answer": "There are seven days in a week."
+    },
+    {
+      "questions": [
+        "how many hours in a day",
+        "hours in a day"
+      ],
+      "answer": "There are 24 hours in a day."
+    },
+    {
+      "questions": [
+        "how many continents are there",
+        "how many continents",
+        "number of continents"
+      ],
+      "answer": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia."
+    },
+    {
+      "questions": [
+        "what is the speed of light",
+        "speed of light"
+      ],
+      "answer": "Light travels at about 299,792 kilometers per second in a vacuum."
+    },
+    {
+      "questions": [
+        "what is the speed of sound",
+        "speed of sound"
+      ],
+      "answer": "Sound travels at about 343 meters per second in air at 20 degrees Celsius."
+    },
+    {
+      "questions": [
+        "what is the boiling point of water",
+        "boiling point of water"
+      ],
+      "answer": "Water boils at 100 degrees Celsius, or 212 degrees Fahrenheit, at sea level."
+    },
+    {
+      "questions": [
+        "what is photosynthesis",
+        "explain photosynthesis"
+      ],
+      "answer": "Photosynthesis is the process plants use to turn sunlight, water and carbon dioxide into food and oxygen."
+    },
+    {
+      "questions": [
+        "what is the largest planet",
+        "largest planet in the solar system",
+        "biggest planet"
+      ],
+      "answer": "Jupiter is the largest planet in our solar system."
+    },
+    {
+      "questions": [
+        "what is the capital of india",
+        "capital of india"
+      ],
+      "answer": "The capital of India is New Delhi."
+    },
+    {
+      "questions": [
+        "what is the capital of france",
+        "capital of france"
+      ],
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "questions": [
+        "what is the capital of japan",
+        "capital of japan"
+      ],
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "questions": [
+        "what is the capital of the united kingdom",
+        "capital of uk",
+        "capital of england"
+      ],
+      "answer": "The capital of the United Kingdom is London."
+    },
+    {
+      "questions": [
+        "what is the capital of the usa",
+        "capital of usa",
+        "capital of the united states"
+      ],
+      "answer": "The capital of the United States is Washington, D.C."
+    },
+    {
+      "questions": [
+        "who invented the telephone",
+        "inventor of the telephone"
+      ],
+      "answer": "Alexander Graham Bell is widely credited with inventing the telephone in 1876."
+    },
+    {
+      "questions": [
+        "who is the father of computer",
+        "father of the computer"
+      ],
+      "answer": "Charles Babbage is often called the father of the computer for designing the Analytical Engine."
+    }
+  ]
+}

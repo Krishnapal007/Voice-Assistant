@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.venv/
+
+# Secrets - NEVER commit these
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local user data
+reminders.json
+
+# IDE / OS files
+.vscode/
+.idea/
+Thumbs.db

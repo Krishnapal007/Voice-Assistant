@@ -1,0 +1,34 @@
+{
+  "custom_commands": [
+    {
+      "trigger": "open notepad",
+      "type": "app",
+      "target": "notepad.exe",
+      "response": "Opening Notepad."
+    },
+    {
+      "trigger": "open calculator",
+      "type": "app",
+      "target": "calc.exe",
+      "response": "Opening Calculator."
+    },
+    {
+      "trigger": "open github",
+      "type": "website",
+      "target": "https://github.com",
+      "response": "Opening GitHub."
+    },
+    {
+      "trigger": "open gmail",
+      "type": "website",
+      "target": "https://mail.google.com",
+      "response": "Opening Gmail."
+    },
+    {
+      "trigger": "tell me a joke",
+      "type": "say",
+      "target": "Why do programmers prefer dark mode? Because light attracts bugs.",
+      "response": ""
+    }
+  ]
+}
